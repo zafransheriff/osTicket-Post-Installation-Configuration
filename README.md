@@ -43,7 +43,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/fPpp07R.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Logged in as the admin, I Configured roles to create a new supreme admin role, getting all permissions. Configured departments and created a systems admin department. Configured teams to be able to pull specefic teams to perform specefic tasks. Created a level 1 and level 2 support
+Logged in as the admin, I Configured roles to create a new supreme admin role, getting all permissions. Configured departments and created a systems admin department. Configured teams to be able to pull specefic teams to perform specefic tasks. Created a online banking team 
 </p>
 <br />
 
