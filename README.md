@@ -68,8 +68,7 @@ As an admin I Configured agents; these are the workers. They have the intent to 
 <img src="https://i.imgur.com/4z8zLCT.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configured users; these are the customers the agents will support. Added Karen and Ken Dow
-</p>
+Configured users; these are the customers the agents will support. Added John
 <br />
 
 <p>
