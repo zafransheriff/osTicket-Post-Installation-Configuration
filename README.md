@@ -48,7 +48,7 @@ Logged in as the admin, I Configured roles to create a new supreme admin role, g
 <br />
 
 <p>
-<img src="https://i.imgur.com/c3dtVXp.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XDHRv1A.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Allow anyone to create tickets.
@@ -57,7 +57,7 @@ Allow anyone to create tickets.
 <br />
 
 <p>
-<img src="https://i.imgur.com/ZbxuVF1.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yCBzaNX.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 As an admin I Configured agents; these are the workers. They have the intent to respons to tickets. Added John and Jane Doe with different permissions
@@ -65,7 +65,7 @@ As an admin I Configured agents; these are the workers. They have the intent to 
 <br />
 
 <p>
-<img src="https://i.imgur.com/aYN23Cq.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4z8zLCT.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configured users; these are the customers the agents will support. Added Karen and Ken Dow
@@ -73,7 +73,7 @@ Configured users; these are the customers the agents will support. Added Karen a
 <br />
 
 <p>
-<img src="https://i.imgur.com/dWq49Nv.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZMGVaYy.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 As an admin I Configured SLA (with osTicket, it is used as a time limit to finish such tasks). Create 3 SLA's, Sev-A (1 hour, 24/7), Sev-B (8 hours, 24/7), and Sev-C (8 hours, business hours)
@@ -81,7 +81,7 @@ As an admin I Configured SLA (with osTicket, it is used as a time limit to finis
 <br />
 
 <p>
-<img src="https://i.imgur.com/jM15HOB.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bwKIUGh.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 As an admin I Configured help topics; this helps the end users choose wht they need help with. Created 'Business Critical Outage', 'Personal Computer Issues'
