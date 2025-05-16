@@ -84,6 +84,6 @@ As an admin I Configured SLA (with osTicket, it is used as a time limit to finis
 <img src="https://i.imgur.com/jM15HOB.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As an admin I Configured help topics; this helps the end users choose wht they need help with. Created 'Business Critical Outage', 'Personal Computer Issues', 'Equipment Request', 'Password Reset' 
+As an admin I Configured help topics; this helps the end users choose wht they need help with. Created 'Business Critical Outage', 'Personal Computer Issues'
 </p>
 <br />
