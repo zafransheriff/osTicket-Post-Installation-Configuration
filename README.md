@@ -9,16 +9,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Video Demonstration</h2>
 
 - ### [YouTube: How To Configure osTicket, post-installation](https://youtu.be/DMhQ_Uz4QLA)
-<h2>Video Demonstration</h2>
 
 
-<h2>Environments and Technologies Used</h2>
+<h2>Environments and Technologies</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>Operating Systems</h2>
 
 - Mac
 - Windows 10</b> (21H2)
